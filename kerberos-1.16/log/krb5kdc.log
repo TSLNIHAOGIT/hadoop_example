@@ -1,0 +1,12 @@
+otp: Loaded
+otp: Loaded
+May 28 08:39:00 hadoop-master krb5kdc[661](info): setting up network...
+May 28 08:39:00 hadoop-master krb5kdc[661](info): setting up network...
+krb5kdc: setsockopt(9,IPV6_V6ONLY,1) worked
+krb5kdc: setsockopt(9,IPV6_V6ONLY,1) worked
+krb5kdc: setsockopt(11,IPV6_V6ONLY,1) worked
+krb5kdc: setsockopt(11,IPV6_V6ONLY,1) worked
+May 28 08:39:00 hadoop-master krb5kdc[661](info): set up 4 sockets
+May 28 08:39:00 hadoop-master krb5kdc[661](info): set up 4 sockets
+May 28 08:39:00 hadoop-master krb5kdc[662](info): commencing operation
+May 28 08:39:00 hadoop-master krb5kdc[662](info): commencing operation
